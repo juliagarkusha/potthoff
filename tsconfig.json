@@ -1,0 +1,69 @@
+{
+  "compilerOptions": {
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "strict": false,
+    "noEmit": true,
+    "incremental": true,
+    "module": "esnext",
+    "esModuleInterop": true,
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "preserve",
+    "types": [
+      "node",
+      "webpack-env"
+    ],
+    "baseUrl": "./src/",
+    "paths": {
+      "components/*": [
+        "./components/*"
+      ],
+      "pages/*": [
+        "./pages/*"
+      ],
+      "hooks/*": [
+        "./hooks/*"
+      ],
+      "contexts/*": [
+        "./contexts/*"
+      ],
+      "types/*": [
+        "./types/*"
+      ],
+      "utils/*": [
+        "./utils/*"
+      ],
+      "layouts/*": [
+        "./layouts/*"
+      ],
+      "styles/*": [
+        "./styles/*"
+      ],
+      "media/*": [
+        "./media/*"
+      ]
+    },
+    "plugins": [
+      {
+        "name": "next"
+      }
+    ]
+  },
+  "include": [
+    "next-env.d.ts",
+    "**/*.ts",
+    "**/*.tsx",
+    ".next/types/**/*.ts",
+    "src/types/declare.d.ts"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}

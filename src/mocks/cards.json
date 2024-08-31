@@ -1,0 +1,58 @@
+[
+  {
+    "id": "1725007638485",
+    "title": "Diakoniewerk Essen",
+    "type": "Neubau",
+    "subTitle": "Neubau Behindertenwohnheim Johannes Böttcher Haus",
+    "imgPath": "card1"
+  },
+  {
+    "id": "1725008424479",
+    "title": "St.-Vinzenz-Hospital Dinslaken",
+    "type": "Neubau",
+    "subTitle": "Neubau Medicum",
+    "imgPath": "card2"
+  },
+  {
+    "id": "1725008430840",
+    "title": "KLS – Klinikum Leverkusen",
+    "type": "Umubau",
+    "subTitle": "Erneuerung Energiezentrale",
+    "imgPath": "card3"
+  },
+  {
+    "id": "1725008438203",
+    "title": "Ev. Krankenhaus Mülheim a.d.R.",
+    "type": "Neubau",
+    "subTitle": "Umbau und Anbau Haus A",
+    "imgPath": "card4"
+  },
+  {
+    "id": "1725008444887",
+    "title": "Lahn-Dill-Kliniken Wetzlar",
+    "type": "Neubau",
+    "subTitle": "OP-Erweiterung und Sanierung 2.OG",
+    "imgPath": "card5"
+  },
+  {
+    "id": "1725008452529",
+    "title": "KLS – Klinikum Leverkusen",
+    "type": "Neubau",
+    "subTitle": "Neubau MediLev – Das Physio-Centrum",
+    "imgPath": "card6"
+  },
+  {
+    "id": "1725008459248",
+    "title": "Universitätsklinikum Bonn",
+    "type": "Neubau",
+    "subTitle": "Neubau Neurologie, Psychologie, Psychosomatik mit neuer Kältezentrale",
+    "imgPath": "card7"
+  },
+  {
+    "id": "1725008467460",
+    "title": "Prosper Hospital Recklinghausen",
+    "type": "Neubau",
+    "subTitle": "Intensivstation / Zentrale Notaufnahme",
+    "imgPath": "card8"
+  }
+]

@@ -1,0 +1,44 @@
+.Icon {
+  &--read {
+    fill: #0A6ADE;
+    stroke: #0A6ADE;
+    transition: stroke .6s ease-in-out;
+  }
+  &--send {
+    fill: #9B9EA7;
+    stroke: #9B9EA7;
+    margin-right: .75rem;
+    transition: stroke .6s ease-in-out;
+  }
+  &--delivered {
+    fill: #ffff;
+    stroke: #ffff;
+    transition: stroke .6s ease-in-out;
+  }
+  &--part-delivered {
+    fill: #ffff;
+    stroke: #ffff;
+    transition: stroke .6s ease-in-out;
+  }
+  &--second-read {
+    position: relative;
+    left: -18px;
+    fill: #0A6ADE;
+    stroke: #0A6ADE;
+    transition: stroke .6s ease-in-out;
+  }
+  &--second-part-delivered {
+    position: relative;
+    left: -18px;
+    fill: #9B9EA7;
+    stroke: #9B9EA7;
+    transition: stroke .6s ease-in-out;
+  }
+  &--second-delivered {
+    position: relative;
+    left: -18px;
+    fill: #ffff;
+    stroke: #ffff;
+    transition: stroke .6s ease-in-out;
+  }
+}
